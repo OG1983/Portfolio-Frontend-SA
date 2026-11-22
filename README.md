@@ -4,7 +4,7 @@ Portfolio web moderno y responsivo construido con HTML, CSS y JavaScript vanilla
 
 ![Preview](preview.png)
 
-## 🚀 Características
+🚀 Características
 
 - ✨ Diseño moderno con animaciones fluidas
 - 📱 Totalmente responsive (móvil, tablet, desktop)
