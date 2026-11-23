@@ -20,7 +20,7 @@ Portfolio web moderno y responsivo construido con HTML, CSS y JavaScript vanilla
 - Google Fonts (Montserrat)
 - Icons8 para iconografía
 
-## 📦 Instalación
+📦 Instalación
 
 1. Clona este repositorio:
 ```bash
